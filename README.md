@@ -1,0 +1,1 @@
+This is an implementation of the Wiki Race game where players race to navigate from one Wikipedia article to another using only the hyperlinks within the articles. The goal is to reach the target article from a starting article in the fewest clicks possible.
